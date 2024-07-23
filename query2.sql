@@ -33,5 +33,5 @@ PENJELASAN:
   tanpa harus menuliskan kolom-kolom yang diselect. 1=tahun, 2=bulan,3=produk_id,4=nama_produk,5=status
 
 NOTE:
-pada query diatas ini bertujuan untuk mengahasilkan laporan bulanan produk terbaik berdasarkan jumlah penjualan, lalu diurutkan berdasarkan bulan, tahun
+pada query diatas ini bertujuan untuk mengahasilkan laporan bulanan semua produk terbaik berdasarkan jumlah penjualan, lalu diurutkan berdasarkan bulan, tahun
 dan total penjualan dari yang terbesar 

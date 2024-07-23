@@ -62,6 +62,6 @@ PENJELASAN:
   # ORDER BY 1,2 : query ini untuk mengurutkan hasil berdasarkan kolom pertama(tahun) dan kolom kedua(bulan)
 
 NOTE:
-pada query diatas ini bertujuan untuk mengahasilkan laporan bulanan produk terbaik berdasarkan jumlah penjualan, lalu memilih 10 teratas untuk setiap bulannya.
+pada query diatas ini bertujuan untuk mengahasilkan laporan bulanan produk terbaik berdasarkan jumlah penjualan, lalu memilih 10 produk teratas untuk setiap bulannya.
 lalu menggunakan 2 CTE agar memisahkan perhitungan aggregasi dari perhitungan peringkat, dan memudahkan untuk debugging jika ada masalah dalam query dan
 mudah dibaca dan modular
